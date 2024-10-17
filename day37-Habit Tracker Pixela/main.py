@@ -2,7 +2,7 @@ import requests
 import strftime
 
 PIXELA_ENDPOINT = "https://pixe.la"
-PIXELA_TOKEN = "ihY7uc6W5Ips3H0mEuezaksUI77lD4PsrOGyXhUWdMrhyqyB2DB5zy3f3RoZ3Avp"
+PIXELA_TOKEN = "______YOUR_PIXELA_TOKEN_____"
 PIXELA_USERNAME = "rudd"
 
 user_params = {

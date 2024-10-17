@@ -3,9 +3,9 @@ from twilio.rest import Client
 
 STOCK = "TSLA"
 COMPANY_NAME = "Tesla Inc"
-STOCK_API_KEY = "5A6N0ZJUE8BGPYXF"
+STOCK_API_KEY = "______YOUR_STOCK_API_KEY_____"
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
-NEWS_API_KEY = "c121e7f7e60f42d1b724834d5676cfd1"
+NEWS_API_KEY = "______YOUR_NEWS_API_KEY_____"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
 TWILIO_SID = ""
 TWILIO_AUTH_TOKEN = ""

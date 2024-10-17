@@ -1,13 +1,13 @@
 import requests
 from datetime import datetime
 
-APP_ID = "08314715"
-API_KEY = "6c2644cf9b26ee1fbd57c76a1fece696"
+APP_ID = "______YOUR_APP_ID_____"
+API_KEY = "______YOUR_API_KEY_____"
 
 EXERCISE_ENDPOINT = "https://trackapi.nutritionix.com/v2/natural/exercise"
-SHEET_ENDPOINT = "https://api.sheety.co/bcc0c17907b1b43958094ed5a9218f86/copyOfMyWorkouts/workouts"
+SHEET_ENDPOINT = "______YOUR_SHEET_ENDPOINT_____"
 
-SHEET_TOKEN = "KXCypt2ZOpyBtnxvhZNz7cfrQB8Tp9anQGs076oIrjImZpkAVvGb3wdxd8nw03yH"
+SHEET_TOKEN = "______YOUR_SHEET_TOKEN_____"
 
 exercise_text = input("What exercise are you doing? ")
 
